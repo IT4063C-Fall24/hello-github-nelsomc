@@ -24,20 +24,20 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to open, edit, commit, and puch files into a Github repository using Visual Code.
 
 **I struggled with:** (repeat as needed)
-- .
+- Getting the Github desktop to show my changes so I could commit.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- Nothing.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ 20 ] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- None.
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- None. 
